@@ -1,0 +1,11 @@
+1. useState : state ko manage karne ke liye
+
+2. useEffect : side Effects handle krne ke liye. (jaise API Call, DOM Manipulation, event Listener)
+
+3. useContext : Global State ko consume karne ke liye without prop drilling
+
+4. useReducer : complex state management ke liye. 
+
+5. useRef : mutable values Hold karne ke liye, jo reRender Trigger na kare, ya DOM access karne ke liye
+
+6. useMemo && UseCallback : optimization ke liye. Unnecessary re-render avoid karne ke liye
