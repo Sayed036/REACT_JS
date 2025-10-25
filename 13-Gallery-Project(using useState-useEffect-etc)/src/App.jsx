@@ -1,7 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import Card from '../../10-Notes-App-Project/src/components/Card';
-
+import Card from './components/Card';
 function App() {
 
   
